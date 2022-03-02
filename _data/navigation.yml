@@ -1,22 +1,13 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?hl=en&user=6b556AEAAAAJ&view_op=list_works&sortby=pubdate
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Teaching & Outreach"
+    url: /teaching/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Contact"
+    url: https://ciera.northwestern.edu/directory/sukrit-ranjan/
     
   - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: /files/ranjan_cv_v13.pdf
