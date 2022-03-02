@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
-    url: https://scholar.google.com/citations?hl=en&user=6b556AEAAAAJ&view_op=list_works&sortby=pubdate
+#  - title: "Publications"
+#    url: https://scholar.google.com/citations?hl=en&user=6b556AEAAAAJ&view_op=list_works&sortby=pubdate
 
-  - title: "Teaching & Outreach"
-    url: /teaching/
+#  - title: "Teaching & Outreach"
+#    url: /teaching/
 
   - title: "Contact"
     url: https://ciera.northwestern.edu/directory/sukrit-ranjan/
