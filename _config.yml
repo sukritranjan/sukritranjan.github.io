@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Sukrit Ranjan"
-  avatar           : "images/KWS_6805.jpg"
+  avatar           : "KWS_6805.jpg"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Chicago, IL"
+  location         : #"Chicago, IL"
   employer         : "Northwestern University"
   pubmed           : #
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=6b556AEAAAAJ&view_op=list_works&sortby=pubdate"
