@@ -4,7 +4,7 @@ main:
     url: https://scholar.google.com/citations?hl=en&user=6b556AEAAAAJ
 
   - title: "Teaching & Outreach"
-    url: /_pages/teaching_page.md
+    url: /markdown/
 
   - title: "Contact"
     url: https://ciera.northwestern.edu/directory/sukrit-ranjan/
