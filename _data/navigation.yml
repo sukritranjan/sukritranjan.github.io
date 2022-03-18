@@ -1,7 +1,7 @@
 # main links links
 main:
-#  - title: "Publications"
-#    url: https://scholar.google.com/citations?hl=en&user=6b556AEAAAAJ&view_op=list_works&sortby=pubdate
+  - title: "Publications"
+    url: https://scholar.google.com/citations?hl=en&user=6b556AEAAAAJ
 
 #  - title: "Teaching & Outreach"
 #    url: /teaching/
