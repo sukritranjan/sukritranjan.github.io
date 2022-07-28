@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+**Update: I am moving to the University of Arizona as an [Assistant Professor](https://www.lpl.arizona.edu/dr-sukrit-ranjan-joins-lpl-faculty-starting-fall-2022-0) in the [Lunar and Planetary Laboratory/Department of Planetary Sciences](https://www.lpl.arizona.edu/)! Prospective [graduate students](https://www.lpl.arizona.edu/admissions) and [postdocs](https://www.lpl.arizona.edu/postdoc/) interested work similar to the below, please get in touch!**
 
 I am a CIERA Postdoctoral Fellow at Northwestern University and an Affiliate Research Scientist at BMSIS. I am a planetary photochemist, interested in using the interaction of molecular systems with energetic radiation as a lens to study life as a planetary phenomenon.
 
