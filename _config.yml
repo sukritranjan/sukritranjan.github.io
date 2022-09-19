@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sukrit Ranjan"
 title_separator          : "-"
 name                     : &name "Sukrit Ranjan"
-description              : &description "CIERA Postdoctoral Fellow @ Northwestern University"
+description              : &description "Assistant Professor  @ University of Arizona Lunar & Planetary Laboratory"
 url                      : https://sukritranjan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sukritranjan/sukritranjan.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Sukrit Ranjan"
   avatar           : "KWS_6805.jpg"
-  bio              : "Planetary Photochemist | CIERA Postdoctoral Fellow"
+  bio              : "Planetary Photochemist | Assistant Professor, UA LPL"
   location         : #"Chicago, IL"
-  employer         : "Northwestern University"
+  employer         : "University of Arizona"
   pubmed           : #
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=6b556AEAAAAJ&view_op=list_works&sortby=pubdate"
   email            :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Phoenix # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
