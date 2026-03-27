@@ -13,7 +13,7 @@ My research focuses on applying photochemistry to questions related to the origi
 
 In addition to research, I value outreach and education. I am a co-founder of the science communication workshop [ComSciCon](http://comscicon.com/), an author emeritus for the science outreach blog [Astrobites](http://astrobites.org/author/sukrit/), and a research mentor for undergraduate students. I also give public talks, write popular science articles, and assist with community science outreach programs.
 
-**Note for prospective graduate students:** The Ranjan group is not currently seeking new graduate students. For other graduate opportunities at LPL, please see the [LPL Graduate Research Opportunities page](https://www.lpl.arizona.edu/research/
+**Note for prospective graduate students:** The Ranjan group is not currently seeking new graduate students. For other graduate opportunities at LPL, please see the [LPL Graduate Research Opportunities page](https://www.lpl.arizona.edu/research/).
 
 **Note for prospective postdocs:** LPL has an excellent postdoctoral program, and I am happy to support applications for postdoctoral prize fellowships like the Heising-Simons [51 Peg](https://www.hsfoundation.org/programs/science/51-pegasi-b-fellowship/), NASA [Hubble](https://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program), and NSF [AAPF](https://new.nsf.gov/funding/opportunities/nsf-astronomy-astrophysics-postdoctoral)/[ESPF](https://www.nsf.gov/pubs/2022/nsf22625/nsf22625.htm). Relevant topics for my group include but are not limited to exoplanet atmospheres, early Earth and Mars, and biosignatures, interpreted broadly. If you are interested in applying for a fellowship, please get in touch so that I can help you craft your application.
 
